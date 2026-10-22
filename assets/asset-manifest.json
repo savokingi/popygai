@@ -1,0 +1,175 @@
+{
+  "retrieved": "2026-10-22",
+  "origin": "Official Popygai.by website and linked Telegram profile",
+  "notes": [
+    "Images are existing portfolio works; customer marks and designs do not represent Popygai brand identity.",
+    "Team identity in project-handover.webp has not been independently confirmed.",
+    "No public photo of the entrance or confirmed staff portrait found on inspected official pages.",
+    "No certificate photo found; loyalty-card.webp is a discount card."
+  ],
+  "assets": [
+    {
+      "path": "assets/photos/cards.webp",
+      "description": "Веер визиток в руке, реальные работы типографии",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/245.png",
+      "width": 1100,
+      "height": 1080
+    },
+    {
+      "path": "assets/photos/stickers.webp",
+      "description": "Лист фирменных наклеек на зелёном фоне",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/246.png",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "path": "assets/photos/cap.webp",
+      "description": "Синяя кепка с белым корпоративным нанесением",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/244.png",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "path": "assets/photos/usb.webp",
+      "description": "Флешки с логотипами на жёлтом фоне",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/237.png",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "path": "assets/photos/bracelets.webp",
+      "description": "Цветные силиконовые браслеты с нанесением",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/236.png",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "path": "assets/photos/pencils.webp",
+      "description": "Карандаши с фирменным нанесением",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/235.png",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "path": "assets/photos/tumbler.webp",
+      "description": "Белая термокружка с нанесением в руке",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/234.png",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "path": "assets/photos/banners.webp",
+      "description": "Широкоформатное оформление торгового пространства BIGMONEY SHOP",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/229.jpg",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "path": "assets/photos/clear-card.webp",
+      "description": "Прозрачные пластиковые визитки Popygai.by",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/224.jpg",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "path": "assets/photos/project-handover.webp",
+      "description": "Два человека с изготовленной вывеской для паба, принадлежность людей к команде не подтверждена",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/223.jpg",
+      "width": 1280,
+      "height": 1170
+    },
+    {
+      "path": "assets/photos/loyalty-card.webp",
+      "description": "Фирменные скидочные карты Popygai.by",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/238.png",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "path": "assets/photos/cases.webp",
+      "description": "Брендированные чехлы для телефонов",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/221.jpg",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "path": "assets/photos/business-cards.webp",
+      "description": "Двусторонние визитки в руке крупным планом",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/222.jpg",
+      "width": 1280,
+      "height": 1280
+    },
+    {
+      "path": "assets/photos/printed-mask.webp",
+      "description": "Чёрная маска с ярким нанесением",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/243.png",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "path": "assets/photos/wall-banner.webp",
+      "description": "Рекламная широкоформатная печать на стенде",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/228.jpg",
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "path": "assets/photos/restaurant-poster.webp",
+      "description": "Рекламный постер для заведения RIB RAW",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/219.jpg",
+      "width": 600,
+      "height": 500
+    },
+    {
+      "path": "assets/photos/restaurant-menu.webp",
+      "description": "Макет меню паба Мёртвые кролики",
+      "source": "https://popygai.fra1.cdn.digitaloceanspaces.com/popygai/instagram/204.png",
+      "width": 810,
+      "height": 1440
+    },
+    {
+      "path": "assets/photos/interior.webp",
+      "description": "Интерьер печатного центра, зелёный рукописный логотип на стекле, футболки с нанесением",
+      "source": "https://popygai.by/assets/frontend/img/popygai/main.jpg",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "path": "assets/brand/parrot.png",
+      "description": "Оригинальный зелёный попугай, аватар розничного отдела; белый круглый фон сохранён",
+      "source": "https://t.me/popygaiby",
+      "width": 320,
+      "height": 320
+    },
+    {
+      "path": "assets/brand/wordmark.svg",
+      "description": "Оригинальный рукописный wordmark Popygai.by, сохранён без изменения контуров",
+      "source": "https://popygai.by/assets/frontend/img/logo.svg"
+    },
+    {
+      "path": "assets/brand/wordmark-white.svg",
+      "description": "Оригинальный белый wordmark",
+      "source": "https://popygai.by/assets/frontend/img/logo-white.svg"
+    },
+    {
+      "path": "assets/brand/wordmark.png",
+      "description": "Original wordmark; empty surrounding canvas trimmed, original shape and colour retained",
+      "source": "https://popygai.by/assets/frontend/img/logo.svg"
+    },
+    {
+      "path": "assets/brand/wordmark-tight.svg",
+      "description": "Original wordmark; empty surrounding canvas trimmed, original shape and colour retained",
+      "source": "https://popygai.by/assets/frontend/img/logo.svg"
+    },
+    {
+      "path": "assets/brand/wordmark-white.png",
+      "description": "Original wordmark; empty surrounding canvas trimmed, original shape and colour retained",
+      "source": "https://popygai.by/assets/frontend/img/logo-white.svg"
+    },
+    {
+      "path": "assets/brand/wordmark-white-tight.svg",
+      "description": "Original wordmark; empty surrounding canvas trimmed, original shape and colour retained",
+      "source": "https://popygai.by/assets/frontend/img/logo-white.svg"
+    }
+  ]
+}

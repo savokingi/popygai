@@ -1,0 +1,8 @@
+dist/
+node_modules/
+.DS_Store
+*.log
+artifacts/
+assets/source/
+assets/photos/work-*
+assets/photos/printshop-main.jpg
